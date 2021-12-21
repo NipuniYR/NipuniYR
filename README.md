@@ -1,6 +1,6 @@
 # Hey there! Welcome to my GitHub Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Software Engineering Undergraduate who is nterested in Web Application Development, Mobile Application Development, Machine Learning, Data Science, and Vehicular Automation.</br>
+I am a Software Engineering Undergraduate who is interested in Web Application Development, Mobile Application Development, Machine Learning, Data Science, and Vehicular Automation.</br>
 
 Social links:</br>
 
